@@ -1,0 +1,36 @@
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\appsettings.Development.json
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\appsettings.json
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\Squad Manager.staticwebassets.runtime.json
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\Squad Manager.exe
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\Squad Manager.deps.json
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\Squad Manager.runtimeconfig.json
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\Squad Manager.dll
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\Squad Manager.pdb
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.csproj.AssemblyReference.cache
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.AssemblyInfoInputs.cache
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.AssemblyInfo.cs
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.csproj.CoreCompileInputs.cache
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.MvcApplicationPartsAssemblyInfo.cache
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.RazorAssemblyInfo.cache
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.RazorAssemblyInfo.cs
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\staticwebassets\msbuild.Squad Manager.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\staticwebassets\msbuild.build.Squad Manager.props
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Squad Manager.props
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Squad Manager.props
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\staticwebassets.build.json
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\staticwebassets.development.json
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\scopedcss\bundle\Squad Manager.styles.css
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\scopedcss\projectbundle\Squad Manager.bundle.scp.css
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.dll
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\refint\Squad Manager.dll
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.pdb
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.genruntimeconfig.cache
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\ref\Squad Manager.dll
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\FluentValidation.dll
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Prog\Squad Manager\Squad Manager\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.MvcApplicationPartsAssemblyInfo.cs
+D:\Prog\Squad Manager\Squad Manager\obj\Debug\net6.0\Squad Manager.csproj.CopyComplete
